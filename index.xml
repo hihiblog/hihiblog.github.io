@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HiHi Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on HiHi Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Feb 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best VPS for Malaysia Streaming 2026: Low Ping Tested</title>
+      <link>http://localhost:1313/2026/02/28/best-vps-for-malaysia-streaming-2026-low-ping-tested/</link>
+      <pubDate>Sat, 28 Feb 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/02/28/best-vps-for-malaysia-streaming-2026-low-ping-tested/</guid>
+      <description>&lt;h1 id=&#34;best-vps-for-malaysia-streaming-2026-low-ping-tested&#34;&gt;Best VPS for Malaysia Streaming 2026: Low Ping Tested&lt;/h1&gt;&#xA;&lt;p&gt;As a developer working from my apartment in Kuala Lumpur, I&amp;rsquo;ve spent the past three months testing different VPS providers specifically for streaming content. I was tired of dealing with buffering during movie nights and lag during live sports events, so I decided to find the best options for Malaysian users.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-ping-matters-for-malaysian-streaming&#34;&gt;Why Ping Matters for Malaysian Streaming&lt;/h2&gt;&#xA;&lt;p&gt;Living in Malaysia, we&amp;rsquo;re geographically positioned where ping times to international streaming servers can make or break our viewing experience. Low ping is crucial because it:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 28 Feb 2026 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about-hihiblog&#34;&gt;About hihiblog&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to hihiblog – your trusted source for &lt;strong&gt;unbiased, hands-on reviews&lt;/strong&gt; of the best tools for developers, digital nomads, and remote workers worldwide.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;&#xA;&lt;p&gt;We created hihiblog to solve a simple problem: too many developer tools claim to be &amp;ldquo;the best&amp;rdquo; – but few are tested in real-world scenarios for overseas users. Our goal is to provide clear, data-driven reviews that help you make informed decisions about VPS, AI tools, SaaS platforms, and travel booking services – without the hype or hidden agendas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/search/placeholder/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
